@@ -5,5 +5,7 @@ def parrot (phrase="Squawk!")
   return phrase
 end 
 
-
-(key) ()
+# Defining a method (=named behavior)
+def <method_name> (<param1>, <params2>, ...)
+  <function body (instructions)>
+end
